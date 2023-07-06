@@ -1,7 +1,7 @@
 //the cards the player has in hand + community pile
-const prompt = require('prompt-sync')()
+const prompt = require('prompt-sync')();
 
-var valid = true
+var valid = true;
 
 var card1;
 var card2;
